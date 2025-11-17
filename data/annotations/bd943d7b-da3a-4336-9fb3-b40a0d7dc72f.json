@@ -1,5 +1,657 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 14,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una película inspirada en un capítulo de novale Huasipunto (1934) de Jorge Icaza"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Créditos",
+          "category": "Letreros"
+        }
+      ],
+      "uuid": "6c1d1a31-a68f-4046-a115-894770ffed4a"
+    },
+    {
+      "start_time": 14,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"El Cielo para la Cunshi se hace porque nosotros queríamos hacer el largometraje de Huasipungo. Entonces hicimos un capítulo para mostrarle a Jorge icaza. Era una prueba\". \"Fue una gran decepción, porque no logramos los derechos del largometraje. No nos dio (Jorge Icaza). Quizás por sus hijos, quién sabe.\" \"Le mostramos, pero no cumplió sus expectativas\". "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comentarios Igor Guayasamín",
+          "category": "Comentarios Igor Guayasamín"
+        }
+      ],
+      "uuid": "c7649583-918d-4b81-8e1f-7464f57cc25a"
+    },
+    {
+      "start_time": 32,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "También era una cuestión de precariedad económica. ¿Cuánto cuesta una puesta en escena? Además se hizo en una circunstancia en la que no había Ley de Cine. Tampoco préstamos, los equipos. Tuvimos que luchar para que el cine se areconocido como pequeña industria. Eso nos demoró dos años, por lo menos, en el Banco de Fomento, y partir de que fue codificado como pequeña industria, tuvimos la capacidad de sacar un préstamo bancario. No había. Ahí adquirimos la showroom, la mesa de edición —sacamos el carnet de importadores— porque se la trajo de Nueva York. Así son los procesos. Dificultad tras dificultad. Abre puertas y abre puertas y puertas. Entonces más nos pasábamos el tiempo en cuestiones burocráticas que en hacer cine. Esa es la verdad. Todas las puertas cerradas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comentarios Igor Guayasamín",
+          "category": "Comentarios Igor Guayasamín"
+        }
+      ],
+      "uuid": "2c2297c6-bd07-4aa4-9212-805261e1b355"
+    },
+    {
+      "start_time": 32,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dirección: Gustavo Guayasamín"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Créditos",
+          "category": "Letreros"
+        }
+      ],
+      "uuid": "10cd4cab-59b9-484a-a6ff-fb9c188c4841"
+    },
+    {
+      "start_time": 36,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Producción: Igor Guaysamín"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Créditos",
+          "category": "Letreros"
+        }
+      ],
+      "uuid": "b19eeebf-0f88-4f2c-b8fb-caf6a6a3f8e8"
+    },
+    {
+      "start_time": 40,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Plano sobre la iglesia: se establece el escenario de la película: la Hacienda. Los personajes que darán vida al relato pertencen a este universo. El hacendado, el cura, el teniente político, y el huasipunguero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "9071839f-f4d0-4fad-9f52-40b5fcb4c020"
+    },
+    {
+      "start_time": 49,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Un perrito paralítico sube las escalinatas de la Iglesia. Un cura lo persigue, le lanza piedras, ahuyentándolo de la iglesia, aparece Andrés Chilliquinga al fondo, cruzándose con el perrito. También cogea. Se genera un paralelismo entre los dos. El indio es lo mismo que un animal: los miserables no son bienvenidos en el reino de dios. Andrés ingresa a la Iglesia para pedir cristiana sepultura para la Cunshi."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "d7e55f97-b731-46a4-9667-e9c5e63cf28b"
+    },
+    {
+      "start_time": 100,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ANDRÉS CHILIQUINGA, UN HUASIPUNGUERO, PIDE SEPULTURA CRISTIANA PARA SU MUJER: LA CUNSHI"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letreros narrativos",
+          "category": "Letreros"
+        }
+      ],
+      "uuid": "b926aeb8-18c8-4ff2-a269-11961e476d37"
+    },
+    {
+      "start_time": 114,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El cura y Chiliquinga salen de la iglesia y van a recorrer los cementerios. Del más cercano al cielo al más miserable. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "d93b4d64-003c-4a92-ae62-5af4076b96e8"
+    },
+    {
+      "start_time": 134,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vemos el primer cementerio. Las cruces y al fondo, la iglesia"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "54276b16-9074-408b-aa17-d76832026e03"
+    },
+    {
+      "start_time": 158,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "VERAS HIJITO, HAY TRES CLASES DE CEMENTERIOS: ESTE, QUE ESTÁ MÁS CERCA DEL ALTAR, RECIBE TODAS LAS ORACIONES Y CUESTA 35 SUCRES. DE AQUI AL CIELO NO HAY MAS QUE UN PASITO. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letreros narrativos",
+          "category": "Letreros"
+        }
+      ],
+      "uuid": "a341487c-19ca-4a28-aa92-c00d96ac44d4"
+    },
+    {
+      "start_time": 174,
+      "end_time": 209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Van al segundo cementerio, alejándose de la iglesia, abajo de sombras de eucaliptos, el plano está en picada."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "53022931-6ead-4842-835d-be5e29c64797"
+    },
+    {
+      "start_time": 210,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "AQUÍ, POR 25 SUCRES VAN AL PURGATORIO... ALGÚN DÍA SE SALVARÁN"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letreros narrativos",
+          "category": "Letreros"
+        }
+      ],
+      "uuid": "50155fa8-7b85-4b6c-b6ae-4edfeb7f221b"
+    },
+    {
+      "start_time": 218,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Caminan al tercer cementerio, atraviesan sombras de pinos, puntas de pencos y un muro en ruinas, el terreno es irregular."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "1f871ca0-02bf-4200-ab15-5487a79ac911"
+    },
+    {
+      "start_time": 262,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ESTE DE A 5, NO TE LO RECOMIENDO, PORQUE NO LLEGAN LAS ORACIONES. LOS QUE SE ENTIERRAN AQUÍ, NUNCA SALDRÁN DEL INFIERNO"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letreros narrativos",
+          "category": "Letreros"
+        }
+      ],
+      "uuid": "a8d61a78-0a8f-403a-a5c1-788793b8171f"
+    },
+    {
+      "start_time": 274,
+      "end_time": 394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salen del tercer cementerio y Andrés Chiliquinga se aleja. Su rostro está opacado por el sol. Dificilmente trepa una cuesta. Su rostro atraviesa los pencos, está roto, sufre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "433334ab-88a1-4c01-9a03-81274dd8e626"
+    },
+    {
+      "start_time": 395,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Llega a ver al cuerpo de la Cunshi. Se saca el sombrero para entrar a la choza. La cámara lo sigue por tras y entramos. El siguiente plano es el rostro muerto de la Cunshi, iluminado con una vela, lo que le confiere gran dramatismo. Andrés llora. La iluminación es mínima. Close ups sobre las expresiones. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "ed52926c-9ac4-4700-b6c3-34832dc9f437"
+    },
+    {
+      "start_time": 426,
+      "end_time": 430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "EL CIELU PARA LA CUNSHI CARAJU (nótese la sonoridad kichwa conferida a la escritura)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letreros narrativos",
+          "category": "Letreros"
+        }
+      ],
+      "uuid": "5771ad85-8baa-40b0-9714-6802e022d0ba"
+    },
+    {
+      "start_time": 431,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sale Andrés de la choza, a resolver el problema. Se lo ve cruzando un campo. Su cuerpo emponchado, contrasta con el blanco del cielo, fundiéndose con el perdil de la loma. Este motivo se repite. El cielo blanco, la iglesia blanca y el cuerpo negro del huasipunguero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "35b11052-d8ce-49ea-8b52-6cdcfdbebc44"
+    },
+    {
+      "start_time": 508,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Andrés espera atrás con una soga mientras pasa el ganado, entonces amarra a una vaca por los cuernos y se la roba. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "bef181c0-6972-4a5a-9653-48eed9422732"
+    },
+    {
+      "start_time": 580,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y LA VENDIÓ POR 50 SUCRES"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letreros narrativos",
+          "category": "Letreros"
+        }
+      ],
+      "uuid": "e8327cc9-07fe-482c-97ca-4435ae580313"
+    },
+    {
+      "start_time": 584,
+      "end_time": 673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se ve el paisaje, y finalmente aparece al fondo Andrés, se entiende que regresa del mercado. Saca el dinero de los bolisllos. Finalmente, con su hijo se acerca donde el cura, que les da la bendición. Le paga. Fundido a blanco."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "189741c2-d037-4706-8d14-fa852fa7bad8"
+    },
+    {
+      "start_time": 674,
+      "end_time": 700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Un nuevo escenario, la plaza de la Hacienda. El hacendado camina inquieto de izquierda a derecha. Entran en escena policías. El capitan escucha la denuncia del patrón. El patrón le da órdenes, enfáticamente, como si fuera su empleado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "f21ce9ad-588b-460d-8ccd-2fdd92674c85"
+    },
+    {
+      "start_time": 701,
+      "end_time": 704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "TRAIGAN AL INDIO QUE ME ROBÓ LA VACA"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letreros narrativos",
+          "category": "Letreros"
+        }
+      ],
+      "uuid": "988bedf6-0f32-454d-acd9-40ae5d885ff2"
+    },
+    {
+      "start_time": 705,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los policías se van en busca del ladrón. Alejándose de la cámara y el patrón aparece de espaldas en primer plano, dando la orden."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "dad90d3c-cffb-4beb-95ac-ccf498abe1c4"
+    },
+    {
+      "start_time": 721,
+      "end_time": 745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La comunidad está reunida en la plaza, todos con sus ponchos, al fondo el pajonal. Luego americano sobre el patrón, sentado y el cura, de pie a su lado y los policías atrás. Este es un plano muy significativo pues aparece la coalición de los tres poderes: el económico (propiedad privada), espiritual (la iglesia) y el estado (los grupos represivos)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "1f0895fb-7132-4b79-a01b-1bb571dba9b3"
+    },
+    {
+      "start_time": 746,
+      "end_time": 825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta obra tiene influencia de Jorge Sanjinés. Tremendo cineasta. Yo le conocí a Sanjinés personalmente. Teníamos gran empatía. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comentarios Igor Guayasamín",
+          "category": "Comentarios Igor Guayasamín"
+        }
+      ],
+      "uuid": "2ced455d-e576-4728-bd70-88fa1ff9842b"
+    },
+    {
+      "start_time": 746,
+      "end_time": 825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La policía trae a Andrés Chiliquinga. La comunidad observa atónita. Lo masacran en el suelo. La escena es muy violenta, y al imagen de esta violencia se camufla atrás del polvo que levanta la acción. Lo despojan de su ropa. Lo amarran por los pulgares. En contrapicada se ve como lo yerguen por los pulgares, mientras grita de dolor. Queda suspendido en el aire, ante la mirada atónita de los comuneros y el capataz de la hacienda procede a latiguearle la espalda con gran violencia. Un niño, el huérfano de la Cunshi, intenta intervenir, sujeta al capataz por la pierna. Y proceden a apalearlo también. Sigue el fustigamiento de Andrés Chiliquinga. La cámara su acerca sobre su rostro sufriente. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "967b78d7-bc0c-4e8e-ab8a-cb6048e2ee47"
+    },
+    {
+      "start_time": 826,
+      "end_time": 868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De nuevo en el interior de la choza, el niño recibe los cuidados, Andrés le cura la espalda herida. Su rostro padece. Las manos son centrales en esta escena. Chiliquinga abraza al hijo y sus manos sobre la espalda del niño son extremadamente expresivas. Sobre el grito desesperado del huasipunguero se termina la película "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        }
+      ],
+      "uuid": "fe5773e4-b30c-425b-9e6d-432933406829"
+    },
+    {
+      "start_time": 869,
+      "end_time": 892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Asistentes de producción Silvia Fabara - Ramiro Galarza / Fotografía Ramiro Bustamente - Pocho Álvarez - Gustavo Guayasamín / Edición Gustavo Guayasamín / Asistente Alfredo Breihl / Actuación José Pulloquinga - Andrés Chiliquinga - Manuel Molina - Cura - José Sucumbe - Hijo de la Cunshi - Silvia Fabara - La Cunshi - Luis Campaña - Policía 1 - Roosevelt Icaza - Policía 2 - Efrén Icaza - Policía 3 - Marlon Muñoz - Policía 4"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Créditos",
+          "category": "Letreros"
+        }
+      ],
+      "uuid": "e50a5fdc-2548-482b-a8a2-367f7dbac7ed"
+    },
+    {
+      "start_time": 893,
+      "end_time": 903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "AGRADECIMIENTO A las comunidades de Salamág, Chaloa y Guangaje / C.A.I.C.E Cooperativa de Arte e Industria Cinematográfica Ecuatoriana. Ecuador Julio 1975. Digitalizada en el año 2022 en la Cinemateca Nacional de la CCE."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Créditos",
+          "category": "Letreros"
+        }
+      ],
+      "uuid": "9505ca50-263d-4cdb-8ba4-3a395d8c5d9a"
+    }
+  ],
   "set": "Default",
   "event_id": "16a12ed2-95d4-4ccd-a9b0-29375de0e254",
   "source_id": "37e62a6d-85a8-4594-86eb-5dc3c8d5cd1e"
