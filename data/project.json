@@ -24,11 +24,41 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Letreros",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Descripciones",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Comentarios Igor Guayasamín",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Letreros narrativos",
+          "category": "Letreros"
+        },
+        {
+          "tag": "Créditos",
+          "category": "Letreros"
+        },
+        {
+          "tag": "Descripciones",
+          "category": "Descripciones"
+        },
+        {
+          "tag": "Comentarios Igor Guayasamín",
+          "category": "Comentarios Igor Guayasamín"
+        }
+      ]
     },
     "created_at": "2025-11-17T18:24:33.968Z",
-    "updated_at": "2025-11-17T18:25:18.283Z",
+    "updated_at": "2025-11-17T18:26:40.938Z",
     "generate_pages_site": true
   },
   "annotations": {},
