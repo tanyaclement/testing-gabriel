@@ -9,8 +9,34 @@
       ]
     },
     {
-      "type": "image",
+      "type": "block-quote",
       "url": "https://texashistory.unt.edu/ark:/67531/metapth987620/",
+      "children": [
+        {
+          "text": "This is not code."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "<b>This is italics</b>",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -21,7 +47,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "<div style=\"overflow:hidden;margin-bottom:36px;padding-bottom:75%;position:relative;height:0;\"><iframe style=\"left:0; top:0; height:100%; width:100%; position:absolute;\" src=\"https://texashistory.unt.edu/ark:/67531/metapth987620/m1/embed/\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>",
+          "code": true
         }
       ]
     }
@@ -34,6 +61,6 @@
   "slug": "testing-page",
   "created_at": "2026-01-28T21:34:00.184Z",
   "created_by": "tanyaclement",
-  "updated_at": "2026-01-28T21:34:00.184Z",
+  "updated_at": "2026-01-28T21:38:42.464Z",
   "updated_by": "tanyaclement"
 }
