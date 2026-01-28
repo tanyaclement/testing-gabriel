@@ -9,6 +9,23 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://texashistory.unt.edu/ark:/67531/metapth987620/m1/embed/",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "block-quote",
       "url": "https://texashistory.unt.edu/ark:/67531/metapth987620/",
       "children": [
@@ -61,6 +78,6 @@
   "slug": "testing-page",
   "created_at": "2026-01-28T21:34:00.184Z",
   "created_by": "tanyaclement",
-  "updated_at": "2026-01-28T21:38:42.464Z",
+  "updated_at": "2026-01-28T21:42:34.727Z",
   "updated_by": "tanyaclement"
 }
