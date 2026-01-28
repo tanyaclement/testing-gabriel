@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://texashistory.unt.edu/ark:/67531/metapth987620/",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "testing page",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "testing-page",
+  "created_at": "2026-01-28T21:34:00.184Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2026-01-28T21:34:00.184Z",
+  "updated_by": "tanyaclement"
+}
