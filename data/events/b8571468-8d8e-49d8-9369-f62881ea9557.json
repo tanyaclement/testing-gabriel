@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "e1d82793-92b8-4f8b-9a81-e019f443fbe9": {
+      "label": "testing",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://texashistory.unt.edu/ark:/67531/metapth987620/m1/",
+      "duration": 944,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "testing",
+  "av_file_order": [
+    "e1d82793-92b8-4f8b-9a81-e019f443fbe9"
+  ],
+  "created_at": "2026-01-28T21:28:01.860Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2026-01-28T21:28:01.860Z",
+  "updated_by": "tanyaclement"
+}
